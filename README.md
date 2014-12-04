@@ -1,4 +1,4 @@
 aes256-php-unity
 ================
 
-Encryption and Decryption for php and unity
+AES256 Encryption and Decryption for PHP and Unity
